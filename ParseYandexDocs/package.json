@@ -1,10 +1,11 @@
 {
-  "name": "ParseYandexDocs",
+  "name": "yandex-time-api-docs-parser",
   "version": "1.0.0",
-  "description": "",
+  "description": "Yandex.Time API docs parser to get all of the possible regions with region codes",
+  "private": true,
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Alexey Shevchenko <kamikozz@mail.ru>",
