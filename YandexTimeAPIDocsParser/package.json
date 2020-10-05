@@ -1,0 +1,16 @@
+{
+  "name": "yandex-time-api-docs-parser",
+  "version": "1.0.0",
+  "description": "Yandex.Time API docs parser to get all of the possible regions with region codes",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Alexey Shevchenko <kamikozz@mail.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
