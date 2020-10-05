@@ -1,0 +1,16 @@
+table {
+    margin: auto;
+    border: 2px solid red;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
+
+#table {
+    cursor: pointer;
+}
