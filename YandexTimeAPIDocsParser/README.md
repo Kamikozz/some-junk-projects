@@ -6,5 +6,7 @@ After execution of the script the ready select/option HTML tag or enumeration on
 ## Deploy:
 1. `npm install`
 2. `npm run start`
+## Result:
+https://repl.it/@Kamikozz/YandexTimeAPIDocsParser
 ## Overall development time:
 `30.10.2019` - `31.10.2019`
